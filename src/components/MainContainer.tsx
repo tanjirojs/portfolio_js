@@ -8,6 +8,7 @@ import Navbar from "./Navbar";
 import SocialIcons from "./SocialIcons";
 import WhatIDo from "./WhatIDo";
 import Work from "./Work";
+import DetailedProjects from "./DetailedProjects";
 import Credentials from "./Credentials";
 import setSplitText from "./utils/splitText";
 
@@ -43,6 +44,7 @@ const MainContainer = ({ children }: PropsWithChildren) => {
             <About />
             <WhatIDo />
             <Career />
+            <DetailedProjects />
             <Work />
             {isDesktopView && (
               <Suspense fallback={<div>Loading....</div>}>
