@@ -15,7 +15,8 @@ React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
 - Contact form
 
 ## 📷 Screenshots
-![Portfolio-Preview](public/images/preview.png)
+![About Me Preview](public/images/about_preview.png)
+![Contact Preview](public/images/contact_preview.png)
 
 ## 🧑‍💻 Author
 Jayjeet Sarkar
