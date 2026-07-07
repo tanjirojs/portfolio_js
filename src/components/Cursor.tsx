@@ -48,7 +48,16 @@ const Cursor = () => {
     });
   }, []);
 
-  return <div className="cursor-main" ref={cursorRef}></div>;
+  return (
+    <div className="cursor-main" ref={cursorRef}>
+      <svg viewBox="0 0 100 100" className="cursor-svg">
+        <path d="M 30,30 L 50,30 A 20,20 0 0 1 50,70 L 30,70 Z" />
+        <line x1="15" y1="40" x2="30" y2="40" />
+        <line x1="15" y1="60" x2="30" y2="60" />
+        <line x1="70" y1="50" x2="85" y2="50" />
+      </svg>
+    </div>
+  );
 };
 
 export default Cursor;

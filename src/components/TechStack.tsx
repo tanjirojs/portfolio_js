@@ -179,7 +179,7 @@ const TechStack = () => {
 
   return (
     <div className="techstack">
-      <h2> My Techstack</h2>
+      <h2> My Skill Sets</h2>
 
       <Canvas
         frameloop={isActive ? "always" : "demand"}
