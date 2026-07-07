@@ -1,5 +1,5 @@
 import "./styles/Credentials.css";
-import { TbCertificate, TbBookOpen, TbLayersUnion } from "react-icons/tb";
+import { TbCertificate, TbBook, TbLayersUnion } from "react-icons/tb";
 
 const certifications = [
   {
@@ -69,7 +69,7 @@ const Credentials = () => {
           {/* Publications Column */}
           <div className="credentials-column">
             <h3 className="column-title">
-              <TbBookOpen className="icon-main" /> Publications
+              <TbBook className="icon-main" /> Publications
             </h3>
             <div className="cards-list">
               {publications.map((pub, index) => (
