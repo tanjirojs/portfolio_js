@@ -15,41 +15,49 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>HS</h4>
-                <h5>WBCHSE</h5>
+                <h4>B.Tech in ECE</h4>
+                <h5>JGEC (Autonomous)</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2016-20</h3>
             </div>
             <p>
-              Built Small Projects using Html,Css,Js.
+              Acquired solid foundations in VLSI design, CMOS digital circuits, signal processing, and hardware modeling.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>B.TECH in ECE</h4>
-                <h5>JGEC(MAKAUT)</h5>
+                <h4>Engineer (ASIC)</h4>
+                <h5>OpenFive / AlphawaveSemi</h5>
               </div>
-              <h3>2024-28</h3>
+              <h3>2021-24</h3>
             </div>
             <p>
-              Built Projects using React,django,Node,MongodB,Express,TailwindCss.
-              Used Git,Github for version control.
-              Used Projects for reallife problem solving.
+              Owned physical design & timing convergence for TSMC 12ffc / GF 40nm memory wrapper blocks and GF-22FDX hierarchical blocks, implementing custom H-trees and integrating eMRAM/PLL IPs.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>MERN</h5>
+                <h4>Engineer II (ASIC)</h4>
+                <h5>AlphawaveSemi</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2024</h3>
             </div>
             <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Served as subsystem-level owner for the company's first chiplet product. Managed leaf-level block floorplans, pin routing/placement, and solved complex LEC, DRC, and LVS issues.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Senior R&D Engineer</h4>
+                <h5>Synopsys Inc.</h5>
+              </div>
+              <h3>PRESENT</h3>
+            </div>
+            <p>
+              Leading full RTL-to-GDSII PNR flow and timing closure on critical 3nm (N3P) and 2nm (N2P) designs for Tier-1 customers. Drove glitch detector IP to 5GHz with zero constraint violations.
             </p>
           </div>
         </div>

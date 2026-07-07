@@ -6,11 +6,7 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Full Stack Developer and Electronics Engineer with 4+ years of experience 
-          building scalable web applications using React.js, Angular, Next.js, Node.js 
-          and NestJS. Skilled in microservices architecture, CMS development, and low-code
-          platforms.Passionate about creating high-performance, production-ready solutions
-          from concept to deployment.
+          Senior Physical Design Engineer with 6 years of end-to-end RTL-to-GDSII experience across ultra-advanced FinFET and FD-SOI process nodes—ranging from 2nm (N2P), 3nm (N3P/N3A), 5nm, 7nm, to GF22FDX, TSMC 12ffc, and GF 40nm. Proven track record of owning block-level and subsystem-level physical design closure for high-frequency, power-sensitive IPs delivered to Tier-1 customers including Google and ARM, with a documented achievement of 5GHz timing closure on glitch-detector critical paths.
         </p>
       </div>
     </div>

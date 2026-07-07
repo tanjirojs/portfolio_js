@@ -87,22 +87,23 @@ const WhatIDo = () => {
             <div className="what-corner"></div>
 
             <div className="what-content-in">
-              <h3>FRONTEND</h3>
-              <h4>Building Interactive UIs</h4>
+              <h3>PHYSICAL DESIGN & PNR</h3>
+              <h4>End-to-End Design Closure</h4>
               <p>
-                Crafting performant, responsive interfaces with modern frameworks.
-                From SPAs to micro-frontends, I deliver pixel-perfect experiences.
+                Owning block and subsystem physical design closure. Expert in Floorplanning,
+                Placement, Clock Tree Synthesis (CTS), Routing, and custom power planning
+                on advanced FinFET/FD-SOI nodes.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">React.js</div>
-                <div className="what-tags">Angular</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">Material UI</div>
-                <div className="what-tags">HTML5</div>
-                <div className="what-tags">CSS3</div>
+                <div className="what-tags">Fusion Compiler</div>
+                <div className="what-tags">Innovus</div>
+                <div className="what-tags">Design Compiler</div>
+                <div className="what-tags">Genus</div>
+                <div className="what-tags">Floorplanning</div>
+                <div className="what-tags">CTS</div>
+                <div className="what-tags">Powerplan</div>
+                <div className="what-tags">Bump & IO</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -126,22 +127,23 @@ const WhatIDo = () => {
             </div>
             <div className="what-corner"></div>
             <div className="what-content-in">
-              <h3>BACKEND</h3>
-              <h4>Scalable Server Architecture</h4>
+              <h3>STA & SIGN-OFF</h3>
+              <h4>Timing & Physical Verification</h4>
               <p>
-                Designing robust APIs and microservices. From CMS platforms to
-                complex business logic, I build backends that scale.
+                Ensuring chip sign-off via Multi-Corner Multi-Mode (MCMM) STA,
+                power integrity (IR drop), and physical verification (DRC/LVS/PERC) using
+                custom Python/TCL scripting.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">NestJS</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">MongoDB</div>
-                <div className="what-tags">PostgreSQL</div>
-                <div className="what-tags">REST APIs</div>
-                <div className="what-tags">Microservices</div>
-                <div className="what-tags">Python</div>
+                <div className="what-tags">PrimeTime</div>
+                <div className="what-tags">Tempus</div>
+                <div className="what-tags">RedHawk</div>
+                <div className="what-tags">Voltus</div>
+                <div className="what-tags">Calibre</div>
+                <div className="what-tags">DRC / LVS / PERC</div>
+                <div className="what-tags">SDC Constraints</div>
+                <div className="what-tags">Python / TCL</div>
               </div>
               <div className="what-arrow"></div>
             </div>

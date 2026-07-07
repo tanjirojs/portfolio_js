@@ -10,39 +10,30 @@ const Contact = () => {
           <div className="contact-box">
             <h4>Email</h4>
             <p>
-              <a href="mailto:kusal25.arcade@gmail.com" data-cursor="disable">
-                kusal25.arcade@gmail.com
+              <a href="mailto:jayjeetsarkarofficially@gmail.com" data-cursor="disable">
+                jayjeetsarkarofficially@gmail.com
               </a>
             </p>
             <h4>Education</h4>
-            <p>B.Tech in Electronics and Communication Engineering</p>
+            <p>B.Tech in Electronics and Communication Engineering (JGEC)</p>
           </div>
           <div className="contact-box">
             <h4>Social</h4>
             <a
-              href="https://github.com/KUSALS2025"
-              target="_blank"
-              data-cursor="disable"
-              className="contact-social"
-            >
-              Github <MdArrowOutward />
-            </a>
-            <a
-              href="https://www.linkedin.com/in/kusalsarkar/"
+              href="https://linkedin.com/in/jayjeetsarkaroffically"
               target="_blank"
               data-cursor="disable"
               className="contact-social"
             >
               Linkedin <MdArrowOutward />
             </a>
-
           </div>
           <div className="contact-box">
             <h2>
-              Designed and Developed <br /> by <span>Kusal Sarkar</span>
+              Designed and Developed <br /> by <span>Jayjeet Sarkar</span>
             </h2>
             <h5>
-              <MdCopyright /> 2025
+              <MdCopyright /> 2026
             </h5>
           </div>
         </div>

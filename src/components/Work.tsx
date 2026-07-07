@@ -5,40 +5,28 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "JGECHELPER",
-    category: "One Stop Solution for Jgec Students",
-    tools: "React.js, Node.js, MongoDB, Express, TailwindCss",
-    image: "/images/JGECHELPER.png",
+    title: "Glitch Detector IP",
+    category: "5GHz Timing Closure & CTS for ARM on N3P/N2P nodes",
+    tools: "Synopsys Innovus, PrimeTime, Custom CTS, TNS optimization, LEC, LUP, DRC/LVS/PERC",
+    image: "/images/glitch_detector.png",
   },
   {
-    title: "Sarkar Snacks",
-    category: "E-Commerce",
-    tools: "Html,Css,Js",
-    image: "/images/Snacks Project.png",
+    title: "Process Detector IP",
+    category: "Full RTL-to-GDSII PNR signoff for SLM subsystems (SF2A, N3A, N5)",
+    tools: "Fusion Compiler, Calibre, Cell Spreading, Layer Assignment, RO Chain Routing Automation",
+    image: "/images/process_detector.png",
   },
   {
-    title: "Meme Generator",
-    category: "Meme Creator",
-    tools: "Html,Css,Js",
-    image: "/images/meme generator.png",
+    title: "SLM Subsystem Soft IP",
+    category: "PVTC SIP releases & TOP/SDA/wrapper level STA signoff",
+    tools: "Design Compiler Synthesis, SDC constraints development, Customer JIRAs resolution",
+    image: "/images/slm_subsystem.png",
   },
   {
-    title: "Drink Sales",
-    category: "E-Commerce",
-    tools: "React.js, Node.js, Django, Express, TailwindCss",
-    image: "/images/Drink Sales.png",
-  },
-  {
-    title: "Student Dashboard with UDISE",
-    category: "All-India Student Dashboard",
-    tools: "React.js, Node.js, Django, Express, TailwindCss,LLM",
-    image: "/images/Student Project.png",
-  },
-  {
-    title: "Password Generator",
-    category: "Password Creator",
-    tools: "Html,Css,Js",
-    image: "/images/Password Generator.png",
+    title: "ASIC Chiplet & 22FDX Subsystems",
+    category: "Company's 1st Chiplet implementation & GF-22FDX block closure",
+    tools: "Cadence Innovus, eMRAM/PLL/EFUSE integration, H-Tree design, IO & Bump assignment, RDL routing",
+    image: "/images/chiplet_22fdx.png",
   },
 ];
 

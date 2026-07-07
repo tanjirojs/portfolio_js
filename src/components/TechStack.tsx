@@ -13,20 +13,25 @@ import {
 
 const textureLoader = new THREE.TextureLoader();
 const imageUrls = [
-  "/images/react2.webp",
-  "/images/next2.webp",
-  "/images/node2.webp",
-  "/images/express.webp",
-  "/images/mongo.webp",
-  "/images/mysql.webp",
-  "/images/typescript.webp",
-  "/images/javascript.webp",
+  "/images/innovus.webp",
+  "/images/primetime.webp",
+  "/images/calibre.webp",
+  "/images/voltus.webp",
+  "/images/redhawk.webp",
+  "/images/fusion_compiler.webp",
+  "/images/design_compiler.webp",
+  "/images/genus.webp",
+  "/images/icv.webp",
+  "/images/lec.webp",
+  "/images/dso_ai.webp",
   "/images/python.webp",
-  "/images/react.webp",
-  "/images/django.webp",
-  "/images/django 2.webp",
-  "/images/tailwind-css.webp",
-  "/images/tailwind-css 2.webp",
+  "/images/tcl.webp",
+  "/images/shell.webp",
+  "/images/sta.webp",
+  "/images/pnr.webp",
+  "/images/drc_lvs.webp",
+  "/images/finfet.webp",
+  "/images/fd-soi.webp",
 ];
 const textures = imageUrls.map((url) => textureLoader.load(url));
 

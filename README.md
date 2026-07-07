@@ -1,13 +1,13 @@
-# Kusal Portfolio
+# Jayjeet Sarkar Portfolio
 
 ## 🔗 Live Demo
 (Add link if hosted)
 
 ## 📌 About
-This is my personal portfolio website built using ...
+This is the personal portfolio website of Jayjeet Sarkar, Senior Physical Design Engineer, built using React, TypeScript, GSAP, and ThreeJS.
 
 ## ⚙️ Tech Stack
-React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+React, TypeScript, GSAP, ThreeJS, WebGL, HTML, CSS, JavaScript
 
 ## 🚀 Features
 - Responsive design
@@ -18,4 +18,4 @@ React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
 ![Portfolio-Preview](public/images/preview.png)
 
 ## 🧑‍💻 Author
-Kusal
+Jayjeet Sarkar
