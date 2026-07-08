@@ -30,10 +30,22 @@ const Career = () => {
                 <h4>Engineer (ASIC)</h4>
                 <h5>OpenFive / AlphawaveSemi</h5>
               </div>
-              <h3>2021-24</h3>
+              <h3>2021-22</h3>
             </div>
             <p>
-              Owned physical design & timing convergence for TSMC 12ffc / GF 40nm memory wrapper blocks and GF-22FDX hierarchical blocks, implementing custom H-trees and integrating eMRAM/PLL IPs.
+              Owned PnR and timing convergence for TSMC 12ffc and GF 40nm memory wrapper & dense blocks, implementing custom clock trees and resolving timing closure issues.
+            </p>
+          </div>
+          <div className="career-info-box">
+            <div className="career-info-in">
+              <div className="career-role">
+                <h4>Engineer I (ASIC)</h4>
+                <h5>AlphawaveSemi</h5>
+              </div>
+              <h3>2023-24</h3>
+            </div>
+            <p>
+              Responsible for GF-22FDX hierarchical block implementation, custom clock trees, and integrating hard/soft IPs (eMRAM, PLL, EFUSE, PVT Sensor).
             </p>
           </div>
           <div className="career-info-box">
